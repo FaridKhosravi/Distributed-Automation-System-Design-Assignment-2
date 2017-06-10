@@ -1,9 +1,10 @@
 # Distributed-Automation-System-Design-Assignment-2
 Skills to be attained and checked:
 
-Understanding of MAS principles - where and how to apply it.
-Ability to model and solve problem using the MAS methodology.
-Ability to apply the MAS methodology for distributed automation systems.
+1-Understanding of MAS principles - where and how to apply it.
+2-Ability to model and solve problem using the MAS methodology.
+3-Ability to apply the MAS methodology for distributed automation systems.
+
 Task description:
 
 The production system (physically located in Ri208, simulator of the system - http://escop.rd.tut.fi:3000) is composed of 12 work stations. The line makes mobile phones that can come in 729 variations (3 screen shapes * 3 colours * 3 keyboard shapes * 3 colours * 3 frame shapes * 3 colours). 10 workstations (WS2-WS6; WS8-WS12) are in charge of making mentioned frames, screens and keyboards. A product can be seen as a combination of a frame, a screen and a keyboard.
